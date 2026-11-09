@@ -1,0 +1,12 @@
+// Problem: DSACPR32
+// Platform: codechef
+// Language: for i = 1 to n
+    j = 0
+    while j < n:
+        j += i 
+        print(i + j)
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK04/problems/DSACPR32
+// Solved on: 2026-11-09T17:28:27.227Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
