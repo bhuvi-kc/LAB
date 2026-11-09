@@ -1,0 +1,13 @@
+// Problem: DSACPR29
+// Platform: codechef
+// Language: s = 0
+for i = 1 to n:
+    s += i
+
+for j = 1 to s:
+    print(j)
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK04/problems/DSACPR29
+// Solved on: 2026-11-09T17:23:32.039Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
