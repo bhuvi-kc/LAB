@@ -1,0 +1,8 @@
+// Problem: SPACEC07
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK05/problems/SPACEC07
+// Solved on: 2026-11-09T18:10:28.235Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
