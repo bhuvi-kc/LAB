@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/THAPARVECTOR/problems/DMFNW07
-// Solved on: 2026-11-09T20:29:45.114Z
+// Solved on: 2026-11-09T20:32:09.105Z
 
 #include<bits/stdc++.h>
 
@@ -32,7 +32,7 @@ int main() {
         }
     }
     else if (n>m){
-        for (int i = n-1; i >= 0; i--){
+        for (int i = m-1; i >= 0; i--){
             cout<<v1[i]<<" ";
         }
     }
