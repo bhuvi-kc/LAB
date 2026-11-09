@@ -1,0 +1,16 @@
+// Problem: DSACPR22
+// Platform: codechef
+// Language: i = 1
+while i <= n:
+    print(i)
+    i *= 2
+
+j = 1
+while j <= n:
+    print(j)
+    j = j + 1
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK03/problems/DSACPR22
+// Solved on: 2026-11-09T17:03:41.770Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
