@@ -1,0 +1,8 @@
+// Problem: DMFNW11
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/THAPARVECTOR/problems/DMFNW11
+// Solved on: 2026-11-09T21:05:17.505Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
