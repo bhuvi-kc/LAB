@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/THAPARVECTOR/problems/DMFNW07
-// Solved on: 2026-11-09T20:28:41.511Z
+// Solved on: 2026-11-09T20:29:45.114Z
 
 #include<bits/stdc++.h>
 
