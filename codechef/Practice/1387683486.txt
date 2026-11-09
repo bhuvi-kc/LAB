@@ -1,0 +1,8 @@
+// Problem: Merge Two Sorted Vectors
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/1387683486
+// Solved on: 2026-11-09T20:35:38.631Z
+
+// source not captured automatically - open the solution page and copy it manually
