@@ -1,0 +1,12 @@
+// Problem: SPACEC02
+// Platform: codechef
+// Language: START
+    Set a = 1
+    Set b = 2
+    Print a + b
+END
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK05/problems/SPACEC02
+// Solved on: 2026-11-09T17:38:59.441Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
