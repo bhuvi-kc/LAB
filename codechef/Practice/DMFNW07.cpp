@@ -2,8 +2,8 @@
 // Platform: codechef
 // Language: C++​
 // Verdict: Accepted
-// URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/THAPARVECTOR/problems/DMFNW07
-// Solved on: 2026-11-09T20:32:09.105Z
+// URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/THAPARVECTOR/problems/DMFNW07?tab=Submissions
+// Solved on: 2026-11-09T20:36:47.511Z
 
 #include<bits/stdc++.h>
 
@@ -31,13 +31,13 @@ int main() {
             cout << v[i] << " ";
         }
     }
-    else if (n>m){
-        for (int i = m-1; i >= 0; i--){
+    else if (n>=m){
+        for (int i = n-1; i >= 0; i--){
             cout<<v1[i]<<" ";
         }
     }
     else{
-        for (int i = n-1; i >= 0; i--){
+        for (int i = m-1; i >= 0; i--){
             cout<<v2[i]<<" ";
         }
     }
