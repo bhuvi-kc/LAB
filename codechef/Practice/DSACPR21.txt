@@ -6,6 +6,6 @@ while i <= n:
     i *= 2
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK03/problems/DSACPR21
-// Solved on: 2026-11-09T17:00:04.605Z
+// Solved on: 2026-11-09T17:09:23.755Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
