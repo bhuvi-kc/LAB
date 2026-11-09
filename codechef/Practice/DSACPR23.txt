@@ -1,0 +1,11 @@
+// Problem: DSACPR23
+// Platform: codechef
+// Language: i = 1
+while i * i <= n:
+    print(i)
+    i += 1
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK03/problems/DSACPR23
+// Solved on: 2026-11-09T17:09:33.808Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
