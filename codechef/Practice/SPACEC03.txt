@@ -1,0 +1,13 @@
+// Problem: SPACEC03
+// Platform: codechef
+// Language: START
+    FOR i = 0 TO N - 1
+        Print i
+        Print i * 2
+    END FOR
+END
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK05/problems/SPACEC03
+// Solved on: 2026-11-09T17:39:41.434Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
