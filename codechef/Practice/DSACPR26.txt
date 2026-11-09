@@ -7,6 +7,6 @@
         j += 1
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK04/problems/DSACPR26
-// Solved on: 2026-11-09T17:21:29.543Z
+// Solved on: 2026-11-09T17:22:34.466Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
