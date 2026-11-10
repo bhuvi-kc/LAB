@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK06/problems/DPNMAO23
-// Solved on: 2026-11-10T14:15:50.124Z
+// Solved on: 2026-11-10T14:31:40.523Z
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -16,21 +16,14 @@ int main() {
         cin>>arr[i];
     }
     
-    sort(arr, arr+n);
-    
-    for (int i = 0; i < n-1; i++){
-        if (arr[i] == arr[i+1]){
-            for (int j = i+1; j < n-1; j++){
-                arr[j] = arr[j+1];
-            }
-            n--;
-            i--;
-        }
-        
-    }
+    unordered_set<int> s;
     
     for (int i = 0; i < n; i++){
-        cout<<arr[i]<<" ";
+        if (s.count(arr[i]) == 0){
+            s.insert(arr[i]);
+            cout<<arr[i]<<" ";
+        }
     }
+
     return 0;
 }
