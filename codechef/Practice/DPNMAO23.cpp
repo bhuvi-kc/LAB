@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK06/problems/DPNMAO23
-// Solved on: 2026-11-10T14:11:59.736Z
+// Solved on: 2026-11-10T14:15:50.124Z
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -15,6 +15,8 @@ int main() {
     for (int i = 0; i < n; i++){
         cin>>arr[i];
     }
+    
+    sort(arr, arr+n);
     
     for (int i = 0; i < n-1; i++){
         if (arr[i] == arr[i+1]){
