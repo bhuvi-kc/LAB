@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK06/problems/FINDUP
-// Solved on: 2026-11-10T17:27:12.928Z
+// Solved on: 2026-11-10T17:29:38.129Z
 
 #include <bits/stdc++.h>
 
@@ -23,6 +23,7 @@ int main() {
         for (int i = 0; i < n; i++) {
             if (arr[i] == arr[i + 1]) {
                 cout << arr[i + 1] << endl;
+                break;
             }
         }
     }   
