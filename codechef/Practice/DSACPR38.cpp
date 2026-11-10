@@ -3,7 +3,7 @@
 // Language: int num[5] = {1, 2, 3, 4, 5};
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK06/problems/DSACPR38
-// Solved on: 2026-11-10T12:41:10.064Z
+// Solved on: 2026-11-10T12:41:31.618Z
 
 #include <bits/stdc++.h>
 using namespace std;
