@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK07/problems/DSACPR50
-// Solved on: 2026-11-12T20:34:45.136Z
+// Solved on: 2026-11-12T20:37:25.934Z
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -28,7 +28,7 @@ int main() {
             best = max(best, cur);
         }
         
-        cout<<best<<" ";
+        cout<<best<<"\n";
     }
 return 0;
 }
