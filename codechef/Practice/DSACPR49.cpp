@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK07/problems/DSACPR49
-// Solved on: 2026-11-12T13:16:20.551Z
+// Solved on: 2026-11-12T13:26:07.939Z
 
 #include <bits/stdc++.h>
 using namespace std;
