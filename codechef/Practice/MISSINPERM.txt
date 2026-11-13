@@ -1,0 +1,8 @@
+// Problem: MISSINPERM
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK07/problems/MISSINPERM
+// Solved on: 2026-11-13T19:36:05.842Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
