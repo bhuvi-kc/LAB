@@ -1,0 +1,10 @@
+// Problem: DSACPR52
+// Platform: codechef
+// Language: [ [1, 2, 3], 
+Arr =    [4, 5, 6],
+         [7, 8, 9] ]
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/tiet-ucs301-dsa-c-2026/PSDOFK08/problems/DSACPR52
+// Solved on: 2026-11-14T20:12:05.650Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
